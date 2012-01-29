@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails anameson: production" product="" version="" jdbc-version="" driver-version="" uuid="2f5de46f-c511-4e25-b919-2236dda685b9">
+    <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+    <jdbc-url>jdbc:mysql://127.0.0.1/anameson_production</jdbc-url>
+    <user-name>root</user-name>
+    <libraries>
+      <library>
+        <url>file://$USER_HOME$/.RubyMine32/config/jdbc-drivers/mysql-connector-java-5.1.13-bin.jar</url>
+      </library>
+    </libraries>
+  </data-source>
+  <data-source source="LOCAL" name="Rails anameson: test" product="" version="" jdbc-version="" driver-version="" uuid="f9561714-64a3-429e-8234-aadec7094fe5">
+    <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+    <jdbc-url>jdbc:mysql://127.0.0.1/anameson_test</jdbc-url>
+    <user-name>root</user-name>
+    <libraries>
+      <library>
+        <url>file://$USER_HOME$/.RubyMine32/config/jdbc-drivers/mysql-connector-java-5.1.13-bin.jar</url>
+      </library>
+    </libraries>
+  </data-source>
+</component>
